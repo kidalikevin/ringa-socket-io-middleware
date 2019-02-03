@@ -1,4 +1,4 @@
--This is a middle to link mobile application running socket.io with the back phase of the app.
+-This is a middleware to link the mobile application running client side socket.io with the back phase of the app.
 - To run:-
     - Make sure you have fair knowledge of nodejs or javascript.
     - Inside project root directory run 'npm i or install' to install project dependencies and plugins.
