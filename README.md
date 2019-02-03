@@ -1,0 +1,6 @@
+-This is a middle to link mobile application running socket.io with the back phase of the app.
+- To run:-
+    - Make sure you have fair knowledge of nodejs or javascript.
+    - Inside project root directory run 'npm i or install' to install project dependencies and plugins.
+    - To run, confirm you have node and nodemon installed on your machine.
+    - On your root directory run this command on the terminal 'nodemon src/app.js'
